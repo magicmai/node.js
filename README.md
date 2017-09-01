@@ -1,4 +1,4 @@
-# 学习 Nodejs
+# 学习 Node.js
 
 ## 一、基础
 环境搭建参考：[sublime text 3 + nodejs](http://www.cnblogs.com/historymemory/p/6378542.html)
