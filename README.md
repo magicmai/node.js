@@ -1,13 +1,11 @@
 # 学习 Nodejs
 
 ## 一、基础
-环境搭建：[sublime text 3 + nodejs](http://www.cnblogs.com/historymemory/p/6378542.html)
+环境搭建参考：[sublime text 3 + nodejs](http://www.cnblogs.com/historymemory/p/6378542.html)
 
 ## 二、例子
-使用 Node.js 编写的 web 服务器，响应返回 `Hello World`：
+使用 Node.js 编写的 web 服务器，文件名为 `example.js`，响应返回 `Hello World`：
  ```
-// example.js
-
  const http = require('http');
 
 const hostname = '127.0.0.1';
